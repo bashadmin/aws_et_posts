@@ -85,6 +85,7 @@ Feel free to modify the Lambda function and experiment with different API Gatewa
 
 Remember, AWS offers extensive documentation and a supportive community for further exploration. Don't hesitate to dive deeper into each of these services to master AWS. Please feel free to view some of the resources I suggest to look at below.
 
-## Resources
-https://aws.amazon.com/architecture/well-architected/
-https://www.wellarchitectedlabs.com/
+## Links
+[View Well Architected resources](https://aws.amazon.com/architecture/well-architected/)
+
+[Go try some labs](https://www.wellarchitectedlabs.com/)
